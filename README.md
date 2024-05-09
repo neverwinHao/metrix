@@ -1,5 +1,5 @@
 # metrix
-人脸超分辨常用计数指标计算仓库，包含PSNR，SSIM，LIPIS
+人脸超分辨常用指标计算仓库，包含PSNR，SSIM，LIPIS
 #Usage
 ```
 python calc.py --test_dataset='Helen' --test_model='Ours'
