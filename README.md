@@ -1,5 +1,10 @@
 # metrix
-人脸超分辨常用定量评价指标指标计算仓库，包含PSNR，SSIM，LIPIS
+Face super-resolution commonly used quantitative evaluation index index calculation warehouse, including PSNR, SSIM, LIPIS
+
+| file          | explain                      |
+| ------------- | ---------------------------- |
+| calc.py       | Used to calculate PSNR, SSIM |
+| calc_lipis.py | Used to calculate LIPIS      |
 
 
 # Usage
